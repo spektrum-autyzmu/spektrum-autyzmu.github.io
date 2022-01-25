@@ -1,6 +1,11 @@
 # Spektrum Autyzmu
 ## Strona startowa
-[Społeczności](#spo%25C5%2582eczno%25C5%259Bci) [Spotkania](#spotkania) [Blogerzy](#blogerzy) [Organizacje](#organizacje) [Specjaliści](#specjali%25C5%259Bci) [Książki](#ksi%25C4%2585%25C5%25BCki)
+- [Społeczności](#Społeczności)
+- [Spotkania](#Spotkania)
+- [Blogerzy](#Blogerzy)
+- [Organizacje]](#Organizacje])
+- [Specjaliści](#Specjaliści)
+- [Książki](#Książki)
 # Społeczności
 * [aspi.net.pl](http://aspi.net.pl/) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym
 * [Autystawka ![Autystawka](images/fb.svg =16x16  "Autystawka")](https://www.facebook.com/groups/Autystawka/) - Grupa poświęcona zagadnieniom związanym ze spektrum autyzmu, otwarta również dla neurotypowych.

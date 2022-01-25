@@ -20,8 +20,6 @@
 * [Events](#events) - Warszawa + on-line
 * [Fundacja Dziewczyny w Spektrum](https://dziewczynywspektrum.pl/nasze-dzialania/samopomoc/) - Grupa rozwojowa dla dziewczyn w spektrum autyzmu w wieku 15-18l oraz Grupa samopomocowa dla dorosłych kobiet w spektrum autyzmu
 # Blogerzy
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
-
 * <img src="images/ig.svg" width="16"> [Aspergerka](https://www.instagram.com/aspergerka/)
 * <img src="images/wp.svg" width="16"> [Autistic Snapshots](https://aspiphotography.wordpress.com/) [<img src="images/fb.svg" width="16">](https://www.facebook.com/aspiphotography) - Autism, Aspergers syndrome, self-advocacy, research news, autism life-hacks ;) & photography
 * <img src="images/ig.svg" width="16">[Autystyczne czytajki](https://www.instagram.com/autystyczne.czytajki/) - recenzuję książki o autyzmie i staram się rozpowszechniać progresywne poglądy na neuroróżnorodność
